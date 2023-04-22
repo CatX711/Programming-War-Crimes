@@ -9,6 +9,7 @@
 // ,
 #define comma ","
 
+// this is self explanitory lmao
 #define space " "
 
 // world
