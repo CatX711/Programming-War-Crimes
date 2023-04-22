@@ -1,5 +1,9 @@
 # 🤓
 
+<br />
+<br />
+<br />
+
 **Jeremy: Guys, guys. I fixed our optimisation problem :D**
 
 <br />
@@ -14,7 +18,7 @@
 
 <br />
 
-### The code:
+## The code:
 
 ```c
 if fps != 60{
