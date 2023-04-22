@@ -1,4 +1,5 @@
 // i broke c so hard i got 34 errors
+// in fact, the compiler thought my program literally doesnt exist lmao
 // maybe i should stop programming in c...
 
 
