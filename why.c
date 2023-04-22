@@ -21,3 +21,10 @@ int main(){
   printf(H, e, l, l, o, comma, space, world, fullstop "\n");
   return 0;
 }
+
+
+/* Output:
+
+Hello, world.
+
+*/
