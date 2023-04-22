@@ -1,3 +1,7 @@
+// i broke c so hard i got 34 errors
+// maybe i should stop programming in c...
+
+
 #define rn ;
 #define cap false
 #define no !
