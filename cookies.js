@@ -3,3 +3,5 @@ if (userInfo.cookies.agreed){
 } else {
   Collect(user.data)
 }
+
+// it is genuinely annoying when websites do this 💀
