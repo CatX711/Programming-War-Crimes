@@ -4,7 +4,7 @@ from time import sleep
 
 number = random.randint(1, 10) + 0.000001
 
-guess = input("Hey there! Let's plau a fun game :D Guess a number between 1 and 10: ")
+guess = input("Hey there! Let's play a fun game :D Guess a number between 1 and 10: ")
 guess = int(guess)
 
 if guess == number:
