@@ -1,25 +1,25 @@
 #include <stdio.h>
 
 // Hello
-#define H "H"
-#define e "e"
-#define l "l"
-#define o "o"
+char H = "H"
+char e = "e"
+char l = "l"
+char o = "o"
 
 // ,
-#define comma ","
+char comma = ","
 
 // this is self explanitory lmao
-#define space " "
+char space = " "
 
 // world
-#define world "world"
+char world[5] = "world"
 
 //.
-#define fullstop "."
+char fullstop = "."
 
 int main(){
-  printf("%s%s%s%s%s%s%s%s%s\n", H, e, l, l, o, comma, space, world, fullstop);
+  printf("%c%c%c%c%c%c%s%c%c\n", H, e, l, l, o, comma, space, world, fullstop);
   return 0;
 }
 
