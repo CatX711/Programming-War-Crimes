@@ -5,7 +5,7 @@
 #define asteric *
 #define slash /
 #define equals_sign =
-#define number int
+#define integer int
 #define floating_point_number float
 #define string str
 #define character char
