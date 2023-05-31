@@ -17,6 +17,7 @@ integer main(){
   integer num3 equals_sign 1423;
   integer num4 equals_sign 22;
   
-  printf(num1 asteric num2 "\n");
-  printf(num3 minus_symbol num4 "\n");
+  // does this even work??
+  printf("%d", num1 asteric num2 "\n");
+  printf("%d", num3 minus_symbol num4 "\n");
 }
