@@ -14,3 +14,5 @@ else:
 
 # im om mac so its funny how my code only affects windows users lmao
 # switch to macbook idiots!  (this is satire) 
+
+# 2023 update: i use windows now... my own code scares me 😬
