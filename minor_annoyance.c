@@ -10,6 +10,7 @@
 #define string str
 #define character char
 #define variable var
+#define newline "\n"
 
 integer main(){
   integer num1 equals_sign 15;
@@ -17,7 +18,6 @@ integer main(){
   integer num3 equals_sign 1423;
   integer num4 equals_sign 22;
   
-  // does this even work??
-  printf("%d", num1 asteric num2 "\n");
-  printf("%d", num3 minus_symbol num4 "\n");
+  printf("%d" newline, num1 asteric num2);
+  printf("%d" newline, num3 minus_symbol num4);
 }
